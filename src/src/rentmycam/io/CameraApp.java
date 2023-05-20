@@ -197,8 +197,7 @@ public class CameraApp {
 			System.out.println(data.getCameraId() + "\t\t\t" + data.getBrand() + "\t\t" + data.getModel()
 					+ "\t\t" + data.getPerDayPrice() + "\t\t" + status);
 			System.out.println("==============================================================================================");
-		}
-		
+		}	
 	}
 
 	public static void rentCamera(ArrayList<Camera> list, Scanner sc, double INR) {
