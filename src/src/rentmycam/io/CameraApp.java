@@ -168,7 +168,7 @@ public class CameraApp {
 				break;
 			}
 		}
-		return flag;
+		return flag ;
 	}
 
 	private static void wallet(Scanner sc, double INR) {
@@ -196,8 +196,7 @@ public class CameraApp {
 			String status = data.isAvailable() ? "Available" : "Rented";
 			System.out.println(data.getCameraId() + "\t\t\t" + data.getBrand() + "\t\t" + data.getModel()
 					+ "\t\t" + data.getPerDayPrice() + "\t\t" + status);
-			System.out.println(
-					"==============================================================================================");
+			System.out.println("==============================================================================================");
 		}
 		
 	}
