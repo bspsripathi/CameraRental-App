@@ -96,7 +96,6 @@ public class CameraApp {
 				System.out.println("3. VIEW MY CAMERAS");
 				System.out.println("4. GO TO PREVIOUS MENU");
 				int n1;
-				
 				n1 = sc.nextInt();
 				if (n1 == 1) {// Adding
 					System.out.println("Enter Camera ID: ");
