@@ -184,7 +184,6 @@ public class CameraApp {
 		System.out.println("Current wallet balance - " + INR);
 		
 	}
-
 	private static void dispalyAll(ArrayList<Camera> list) {
 		System.out.println(
 				"=============================================================================================");
