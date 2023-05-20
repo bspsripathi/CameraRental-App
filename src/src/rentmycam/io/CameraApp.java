@@ -209,7 +209,7 @@ public class CameraApp {
 			Camera camera = list.get(i);
 			if (camera.getCameraId() == cameraId) {
 				index = i;
-				break; // Found the camera, exit the loop
+				break; // Found the camera, exit the loop  
 			}
 		}
 		if (index != -1) {
