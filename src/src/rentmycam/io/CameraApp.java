@@ -88,7 +88,6 @@ public class CameraApp {
 			System.out.println("THANK YOU \nVISIT AGIAN");
 
 		} else {
-			
 			switch (n) {
 			case 1:
 				System.out.println("1. ADD");
@@ -170,7 +169,6 @@ public class CameraApp {
 			}
 		}
 		return flag;
-		
 	}
 
 	private static void wallet(Scanner sc, double INR) {
