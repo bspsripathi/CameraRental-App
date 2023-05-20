@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Dell
- *
- */
-module CameraRentalAPP {
-}
